@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Anton');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+  width: 100%;
+}
+
+h1 {
+  font-family: 'Anton';
+}
+
+p {
+width: 100%;
+font-family: 'Open sans';
+}
+
+nav {
+width: 10%;
+position: fixed;
+float: left;
+margin-top: 20%;
+}
+
+main {
+  width: 80%;
+  height: 100%;
+  float: right;
+  margin: 0 75px;
+}
+
+a {
+  text-decoration: none;
+  display: block;
+  margin-bottom: 50px;
+  margin-left: 50px;
+  font-family: 'Anton';
+  font-size: 15px;
+  color: black;
+}
+
+img {
+  position: relative;
+  float: right;
+  margin-left: 20px;
+}
+
+.color {
+  color: pink;
+}
+
+#content11 {
+  margin-top: 80px;
+}
